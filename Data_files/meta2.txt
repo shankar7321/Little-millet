@@ -1,0 +1,11 @@
+sample	Tissue	Phase
+GS	GS	Emergence
+RD	RD	Emergence
+PU	PU	Emergence
+YL	YL	Vegetative
+YR	YR	Vegetative
+CM	CM	Vegetative
+VS	VS	Vegetative
+PE	PE	Reproductive
+PM	PM	Reproductive
+PL	PL	Reproductive
